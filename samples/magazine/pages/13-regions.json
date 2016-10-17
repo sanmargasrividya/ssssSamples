@@ -1,0 +1,34 @@
+[{
+	"x":50,
+	"y":510,
+	"width":425,
+	"height":30,
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.siddhasanmarga.org/"
+		}
+},
+{
+	"x":290,
+	"y":545,
+	"width":100,
+	"height":40,
+	"class":"link",
+	"data":
+		{
+			"url": "https://www.youtube.com/channel/UC3_1YonBfJkpj9FJMIo5XAg"
+		}
+},
+{
+	"x":395,
+	"y":543,
+	"width":133,
+	"height":45,
+	"class":"link",
+	"data":
+		{
+			"url": "https://www.facebook.com/siddhasanmarga/"
+		}
+}
+]
